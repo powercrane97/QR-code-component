@@ -5,7 +5,7 @@ function App() {
     <div id='app'>
       <div className='wrap'>
         <img
-          src='/images/image-qr-code.png'
+          src='/image-qr-code.png'
           alt='QR-Code with link to frontendmentor.io'
         />
         <div className='description'>
